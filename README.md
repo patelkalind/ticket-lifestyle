@@ -25,29 +25,56 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-In every ticketing software, there are always the stages of the ticketing system's lifecycle. As an end user who’s asking for help, they create a new ticket to explain their issue. From there, the agent will open the ticket and resolve it immediately, or place it in pending status to request more information from the end user. Sometimes, the agent will reassign the ticket to another agent with a higher status to properly resolve it. Once that is completed, the agent must close the ticket ASAP to inform the end user that their issue has been resolved. 
+In every ticketing software, there are always the stages of the ticketing system's lifecycle. As an end user who’s asking for help, they create a new ticket to explain their issue. From there, the agent will open the ticket and resolve it immediately, or place it in pending status to request more information from the end user. Sometimes, the agent will reassign the ticket to another agent with a higher status to ensure it is appropriately resolved. Once that is completed, the agent must close the ticket ASAP to inform the end user that their issue has been resolved. 
 
-In this tutorial, we will simulate the ticketing lifecycle of a day-to-day business from the Help Desk Agent’s perspective and from the end user's perspective. There will be three simulated exercises to help explain the issues. However, before we begin, some housekeeping tasks need to take place to ensure osTicket is effective.
+In this tutorial, we will simulate the ticketing lifecycle of a day-to-day business from the perspective of a Help Desk Agent and from that of an end user. There will be three simulated exercises to help explain the issues. However, before we begin, some housekeeping tasks need to be taken care of to ensure osTicket is effective.
 
 **Before the Simulation**
 
 Please verify that the SysAdmins department is Top Level
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/f92ff368-e132-47a3-bef5-efbaa3130573" />
  
 The next step is to delete the Maintenance department in this exercise, as it won’t be needed
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/66d4603d-289d-4af5-b64d-e582a95ab57b" />
  
 Make sure you select the correct box for Maintenance and confirm deletion
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/54bb8576-df5d-4bbb-9c57-31dcf5c303e9" />
  
 You have successfully deleted the Maintenance department
- 
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/51c24024-7950-41be-817a-59874c31ac36" />
+
+
+
 **Simulation #1**
 
+
 For every tech issue that arises, all end users must submit a ticket form. Every ticketing software may vary in how to open a new ticket, but here is an example of how the end user opens a new ticket on osTicket:
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/24bac98d-a3f5-42b4-9bea-bbc3e25e3a20" />
  
 In this simulation, the end user’s name is Karen, and she is submitting a ticket under the “Report a Problem” category because the entire online banking system is down. Her employees can’t access or log in. Here is an example of the ticket.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/39710017-ebd7-46d9-b278-7321726024ba" />
  
 After Karen submitted her ticket, the help desk agent John Doe will now review it and read the description. Below is an example of how the ticket appears to John Doe.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/c4232f7c-16de-44a9-8ac0-921bdb68d4df" />
  
-After John Doe observed the ticket, he would then change the “assigned to” to the Online Banking team and change the SLA to Sev-A, as this needs to be addressed ASAP before handing it off to Jane Doe, who has higher priority in osTicket as an admin over John. 
+After John Doe observed the ticket, he would then update the “assigned to” field to the Online Banking team and change the SLA to Sev-A, as this issue needs to be addressed ASAP before handing it off to Jane Doe, who has a higher priority in osTicket as an admin over John. 
+
+
+<img width="975" height="255" alt="image" src="https://github.com/user-attachments/assets/36762f40-80a1-45da-b829-23185657182b" />
  
 From there, Jane Doe would inform the Online Banking team that she will take full responsibility for handling this ticket by reassigning it to herself.
  
