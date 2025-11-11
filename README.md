@@ -77,18 +77,32 @@ After John Doe observed the ticket, he would then update the “assigned to” f
 <img width="975" height="255" alt="image" src="https://github.com/user-attachments/assets/36762f40-80a1-45da-b829-23185657182b" />
  
 From there, Jane Doe would inform the Online Banking team that she will take full responsibility for handling this ticket by reassigning it to herself.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/c111bc0d-6753-4b70-bce9-7d66f2daccda" />
  
 Jane then follows up with Karen to ensure the issues are being addressed before resolving them.
+
+
+<img width="975" height="496" alt="image" src="https://github.com/user-attachments/assets/515e8c25-90ed-4a75-9591-46229ab9e136" />
  
 After Jane Doe resolved the issues with the online banking systems not working, she would respond to Karen to explain the problems before closing out the ticket.
+
+
+<img width="975" height="566" alt="image" src="https://github.com/user-attachments/assets/a2a39f57-25a4-4ea3-ad1a-f684554c6791" />
  
 After the issue is resolved, Jane must close the ticket to mark it as officially resolved.
- 
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/b2a4a2fc-cc7f-44b0-a9b2-5da1058fee72" />
+
+
+
 **Simulation # 2**
 
 In this second simulated exercise, Karen submits a ticket under the category of “General Inquiry”. In this scenario, the accounting department can’t use its Adobe software. Here is an example of the ticket
  
-Just so you know, for end users, if the ticket goes to the wrong support agent, it can be transferred as shown below, where Jane transfers the ticket to John.
+Just so you know, for end users, if a ticket is assigned to the wrong support agent, it can be transferred as shown below, where Jane transfers the ticket to John.
  
 After Jane transfers the ticket to John, he will review it and act accordingly.
  
