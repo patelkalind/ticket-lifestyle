@@ -31,7 +31,7 @@ In this tutorial, we will simulate the ticketing lifecycle of a day-to-day busin
 
 **Before the Simulation**
 
-Please verify that the SysAdmins department is Top Level
+Please verify that the SysAdmins department is Top Level.
 
 
 <img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/f92ff368-e132-47a3-bef5-efbaa3130573" />
@@ -101,40 +101,86 @@ After the issue is resolved, Jane must close the ticket to mark it as officially
 **Simulation # 2**
 
 In this second simulated exercise, Karen submits a ticket under the category of “General Inquiry”. In this scenario, the accounting department can’t use its Adobe software. Here is an example of the ticket
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/9cfd89c1-f3fc-4c5d-90da-c1c0ce5d7850" />
  
-Just so you know, for end users, if a ticket is assigned to the wrong support agent, it can be transferred as shown below, where Jane transfers the ticket to John.
+For end users, if a ticket is assigned to the wrong support agent, it can be transferred as shown below, where Jane transfers the ticket to John.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/073df4d1-c3ff-4d6f-89e8-30da04e9a1b7" />
  
-After Jane transfers the ticket to John, he will review it and act accordingly.
+After Jane transfers the ticket to John, he will look it over and take the necessary action.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/777c2aeb-3b4b-496e-898f-596570838c66" />
  
 After reviewing the ticket, the SLA plan is prioritized as Sev-C because only two employees are experiencing issues with Adobe.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/06202474-b7d1-4721-9ddf-85dee5d16d21" />
  
-After reassigning the SLA, John Doe takes sole responsibility for resolving this ticket
+After reassigning the SLA, John Doe takes sole responsibility for resolving this ticket.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/295dfa5b-5db9-44ca-af5d-53550666c438" />
  
 John must then explain to Karen what the problem was and then give an estimated time of completion.
+
+
+<img width="975" height="559" alt="image" src="https://github.com/user-attachments/assets/c9c644f7-41d0-479b-811d-5a27b94e2191" />
  
 Once John has resolved the issue, he follows up with Karen to confirm it has been resolved before closing the ticket.
+
+
+<img width="975" height="534" alt="image" src="https://github.com/user-attachments/assets/b293e63e-47d6-473f-9a48-599c9bef3db0" />
  
 John officially closes the ticket with a comment on what the issue was
- 
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/1717a1d3-95e7-4fa9-b088-e0ecb0377f77" />
+
+
+
 **Simulation #3**
 
 In this third and final simulated exercise, Karen would submit a ticket regarding a personal computer problem. In this case, she explains that the CFO can’t turn on his computer.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/daf727f8-f3f3-4072-9d7e-4d2bebae4974" />
  
 After Karen submitted the ticket, Jane Doe reviewed it and transferred it to John Doe. He then updated the priority to “Emergency” as this issue is coming from an executive.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/2110f9c0-97c3-49fe-a164-55749521a3cc" />
  
 John would then assign the SLA to Sev-B, as this is a priority to resolve, but not at the level of Sev-A yet. However, he keeps his options open to change the SLA if needed.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/d8a79e28-926c-4f15-addd-60b7e80966dd" />
  
-John Doe later informs the team that he will take over this ticket
+John Doe later informs the team that he will take over this ticket.
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/c7bae7b2-4fa3-4a12-8fdc-27680af0cc8b" />
  
 John would later explain to Karen that the CFO’s laptop wasn’t working even though it was charged because the power charger was broken. He would follow up by informing Karen that the CFO had received a new charger.
+
+
+<img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/be705db3-a531-499b-be7a-e8f961476530" />
  
 John Doe officially closes the ticket, explaining that the CFO’s laptop charger was broken and that a new charger was required to power his laptop.
- 
+
+
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/0aff1289-e631-420f-bf90-33191f69a966" />
+
+
+
 **Conclusion**
 
-To sum it up, every day in business, there will always be an issue from the end user, ranging from minor (a laptop charger not working) to major (a server down). As a help desk agent, it’s your responsibility to respond to each task that comes up and occasionally delegate if there’s a need for help. 
+To sum it up, every day in business, there will always be an issue from the end user, ranging from minor (such as a laptop charger not working) to major (like a server being down). As a help desk agent, it’s your responsibility to respond to each task that comes up and occasionally delegate if there’s a need for help. 
   
-It’s always important to communicate with the end user to explain the problem and follow up, since tensions can arise; the best thing to do is ease the pain. On occasion, tickets are created via phone, chat, email, a web form, or in person when you run into someone in your hall or when someone approaches you at your desk. A lot of the time, people will ask you to fix stuff on the spot. While it’s acceptable to fix things on the spot, it’s always a good idea to create a ticket for everything that you do.
+It’s always important to communicate with the end user to explain the problem and follow up, since tensions can arise; the best thing to do is ease the pain. On occasion, tickets are created via phone, chat, email, a web form, or in person when you run into someone in your hall or when someone approaches you at your desk. Often, people will ask you to fix things on the spot. While it’s acceptable to fix things on the spot, it’s always a good idea to create a ticket for everything that you do.
 
 This officially concludes the osTicket tutorial. As always, make sure you clean up your virtual machines and delete them to avoid charges to your Microsoft Azure account.
 
